@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/oiblabs/static/css/main.15d7ddcd.chunk.css",
+    "main.js": "/oiblabs/static/js/main.c0a7e797.chunk.js",
+    "main.js.map": "/oiblabs/static/js/main.c0a7e797.chunk.js.map",
+    "runtime-main.js": "/oiblabs/static/js/runtime-main.80850036.js",
+    "runtime-main.js.map": "/oiblabs/static/js/runtime-main.80850036.js.map",
+    "static/css/2.ccc6f86f.chunk.css": "/oiblabs/static/css/2.ccc6f86f.chunk.css",
+    "static/js/2.0233c5d8.chunk.js": "/oiblabs/static/js/2.0233c5d8.chunk.js",
+    "static/js/2.0233c5d8.chunk.js.map": "/oiblabs/static/js/2.0233c5d8.chunk.js.map",
+    "index.html": "/oiblabs/index.html",
+    "static/css/2.ccc6f86f.chunk.css.map": "/oiblabs/static/css/2.ccc6f86f.chunk.css.map",
+    "static/css/main.15d7ddcd.chunk.css.map": "/oiblabs/static/css/main.15d7ddcd.chunk.css.map",
+    "static/js/2.0233c5d8.chunk.js.LICENSE.txt": "/oiblabs/static/js/2.0233c5d8.chunk.js.LICENSE.txt",
+    "static/media/logo.de209962.svg": "/oiblabs/static/media/logo.de209962.svg",
+    "static/media/report1.604235c3.pdf": "/oiblabs/static/media/report1.604235c3.pdf",
+    "static/media/report2.067c56bc.pdf": "/oiblabs/static/media/report2.067c56bc.pdf",
+    "static/media/report3.a0e76e83.pdf": "/oiblabs/static/media/report3.a0e76e83.pdf",
+    "static/media/report4.932a5039.pdf": "/oiblabs/static/media/report4.932a5039.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80850036.js",
+    "static/css/2.ccc6f86f.chunk.css",
+    "static/js/2.0233c5d8.chunk.js",
+    "static/css/main.15d7ddcd.chunk.css",
+    "static/js/main.c0a7e797.chunk.js"
+  ]
+}
